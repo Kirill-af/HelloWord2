@@ -95,6 +95,5 @@ public class Main {
 
         var newTotalHours = increasedEmployees * hoursPerEmployee;
         System.out.println("Если в компании работает " + increasedEmployees + " человек, то всего " + newTotalHours + " часов работы может быть поделено между сотрудниками.");
-
     }
 }
